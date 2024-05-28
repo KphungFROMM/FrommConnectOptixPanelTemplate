@@ -12,6 +12,8 @@ using FTOptix.Retentivity;
 using FTOptix.RAEtherNetIP;
 using FTOptix.OPCUAServer;
 using FTOptix.Alarm;
+using FTOptix.System;
+using FTOptix.SerialPort;
 #endregion
 
 public class LoginChangePasswordButtonLogic : BaseNetLogic

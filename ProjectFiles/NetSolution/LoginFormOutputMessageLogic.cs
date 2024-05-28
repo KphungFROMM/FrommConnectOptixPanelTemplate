@@ -9,6 +9,8 @@ using FTOptix.UI;
 using FTOptix.OPCUAServer;
 using FTOptix.RAEtherNetIP;
 using FTOptix.Alarm;
+using FTOptix.System;
+using FTOptix.SerialPort;
 #endregion
 
 public class LoginFormOutputMessageLogic : BaseNetLogic

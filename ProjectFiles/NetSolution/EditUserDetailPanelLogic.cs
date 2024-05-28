@@ -8,6 +8,8 @@ using FTOptix.UI;
 using FTOptix.WebUI;
 using System.Linq;
 using FTOptix.Alarm;
+using FTOptix.System;
+using FTOptix.SerialPort;
 #endregion
 
 public class EditUserDetailPanelLogic : BaseNetLogic

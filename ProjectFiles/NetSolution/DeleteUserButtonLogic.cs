@@ -6,6 +6,8 @@ using FTOptix.UI;
 using System.Linq;
 using FTOptix.WebUI;
 using FTOptix.Alarm;
+using FTOptix.System;
+using FTOptix.SerialPort;
 #endregion
 
 public class DeleteUserButtonLogic : BaseNetLogic

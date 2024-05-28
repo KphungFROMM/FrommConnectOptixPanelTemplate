@@ -18,6 +18,8 @@ using FTOptix.Store;
 using FTOptix.SQLiteStore;
 using FTOptix.EventLogger;
 using FTOptix.WebUI;
+using FTOptix.System;
+using FTOptix.SerialPort;
 #endregion
 
 public class AlarmIconLogic : BaseNetLogic

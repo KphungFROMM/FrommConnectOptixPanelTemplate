@@ -16,6 +16,8 @@ using FTOptix.CoreBase;
 using FTOptix.CommunicationDriver;
 using FTOptix.Core;
 using FTOptix.WebUI;
+using FTOptix.System;
+using FTOptix.SerialPort;
 #endregion
 
 public class RoleStatus : BaseNetLogic

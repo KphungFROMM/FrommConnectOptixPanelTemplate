@@ -65,16 +65,32 @@ Project:
    Uri: 'urn:FTOptix:NetLogic'
    Module: FTOptix.NetLogic
    Version: 1.0
+  17:
+   Uri: 'urn:FTOptix:System'
+   Module: FTOptix.System
+   Version: 3.0
+  18:
+   Uri: 'urn:FTOptix:System:Net'
+   Module: FTOptix.System.Net
+   Version: 2.0
+  19:
+   Uri: 'urn:FTOptix:SerialPort'
+   Module: FTOptix.SerialPort
+   Version: 1.0
+  20:
+   Uri: 'urn:FTOptix:SerialPort:Net'
+   Module: FTOptix.SerialPort.Net
+   Version: 1.0
  Statistics:
-  TotalNodeCount: 2696
-  Objects: 603
-  ObjectTypes: 22
-  Variables: 2061
+  TotalNodeCount: 4946
+  Objects: 1016
+  ObjectTypes: 43
+  Variables: 3867
   VariableTypes: 0
   DataTypes: 0
-  Methods: 10
-  References: 54
+  Methods: 20
+  References: 88
   ReferenceTypes: 0
-  Files: 27
+  Files: 34
  Nodes:
  - File: Nodes/FrommConnectOptixPanelTemplate.yaml

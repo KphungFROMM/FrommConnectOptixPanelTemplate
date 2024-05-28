@@ -4,6 +4,8 @@ using FTOptix.NetLogic;
 using FTOptix.UI;
 using FTOptix.WebUI;
 using FTOptix.Alarm;
+using FTOptix.System;
+using FTOptix.SerialPort;
 #endregion
 
 public class UserEditorPanelLoaderLogic : BaseNetLogic

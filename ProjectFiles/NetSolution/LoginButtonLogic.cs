@@ -10,6 +10,8 @@ using FTOptix.UI;
 using FTOptix.RAEtherNetIP;
 using FTOptix.OPCUAServer;
 using FTOptix.Alarm;
+using FTOptix.System;
+using FTOptix.SerialPort;
 #endregion
 
 public class LoginButtonLogic : BaseNetLogic
